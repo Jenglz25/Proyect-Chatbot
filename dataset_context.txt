@@ -1,0 +1,16 @@
+Dataset: AI_Impact_on_Jobs_2030
+
+Descripción:
+Este dataset contiene información sobre diferentes trabajos y su relación con la Inteligencia Artificial en el año 2030. Incluye columnas como Job_Title, Average_Salary, AI_Exposure, Education_Level y múltiples campos de skills (Skill_xxx). Sirve para analizar tendencias laborales, salarios, niveles de exposición a IA y requerimientos de habilidades.
+
+Columnas disponibles:
+- Job_Title: nombre del trabajo
+- Average_Salary: salario promedio
+- AI_Exposure o AI_Exposure_Index: nivel de exposición a IA
+- Education_Level: nivel educativo requerido
+- Skill_xxx: habilidades cuantificadas en escala 0–1
+
+Tamaño:
+Número de registros: VARIABLE (leer desde CSV)
+Uso:
+Este dataset se usa para analítica laboral, visualizaciones interactivas y como fuente del chatbot para responder preguntas laborales.
